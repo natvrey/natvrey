@@ -21,7 +21,7 @@ I'm a Full Stack developer, writer & musician.
 <a href="https://www.linkedin.com/in/natalievreynolds/" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 🛠 Skills
-HTML, CSS, SASS, JavaScript, React, React Router, Node.js, Express.js, DOM APIs, Web APIs, Axios, Heroku, MySQL, MySQL Workbench, Knex, JWT Authentication, OAuth, WebPack, Jest, GitHub, Jira, Agile Development, Twilio, Socket.IO, AWS, Microsoft Office
+HTML, CSS, SASS, JavaScript, React, React Router, Node.js, Express.js, REST APIs, Axios, Heroku, MySQL, MySQL Workbench, Knex, JWT Authentication, OAuth, WebPack, Jest, GitHub, Jira, Agile Development, Twilio, Socket.IO, AWS, Microsoft Office
 
 
 ### <a href="https://natvrey.wixsite.com/natvrey/projects" rel="nofollow noreferrer">💻 Portfolio </a>
